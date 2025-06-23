@@ -10,7 +10,9 @@ Additional resources from _Nature_:
 - [Formatting guide](https://www.nature.com/nature/for-authors/formatting-guide)
 - [Initial submissions guidelines](https://www.nature.com/nature/for-authors/initial-submission)
 - [Revised submissions guidelines](https://www.nature.com/nature/for-authors/final-submission)
-- [Research figure guide (Website)](https://research-figure-guide.nature.com/figures/), authors will be asked to follow these guidelines when asked to submit the final version of their article for publication.
+- [Research figure guide (website)](https://research-figure-guide.nature.com/figures/)
+  - Authors will be asked to follow these guidelines when asked to submit the final version of their article for publication.
+  - This website also includes an Adobe Illustrator template within the [Resources section](https://research-figure-guide.nature.com/resources/templates/).
 - [Guide to preparing the final figures (slides)](https://www.nature.com/documents/Final_guide_to_authors.pdf)
 - [Guide to preparing figures (nature reviews)](https://www.nature.com/documents/natrev-figure-guidelines-v1.pdf)
 - [Guiding principles for conceptual figures](https://www.nature.com/documents/Nature_scientific_illustration_author_guide.pdf)
