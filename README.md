@@ -2,12 +2,12 @@
 This repository contains two Powerpoint templates for scientific figures sized according to _Nature's_ figure formatting guidelines. These files are sized for both initial or revised submissions.
 
 _Nature_'s [formatting guide](https://www.nature.com/nature/for-authors/formatting-guide) notes:
-> Figures should not contain more than one panel unless the parts are logically connected; each panel of a multipart figure should be sized so that the whole figure can be reduced by the same amount and reproduced on the printed page at the smallest size at which essential details are visible. For guidance, **Nature’s standard figure sizes are 90 mm (single column) and 180 mm (double column) and the full depth of the page is 170 mm**.
+> Figures should not contain more than one panel unless the parts are logically connected; each panel of a multipart figure should be sized so that the whole figure can be reduced by the same amount and reproduced on the printed page at the smallest size at which essential details are visible. For guidance, **Nature’s standard figure sizes are 89 mm (single column) and 183 mm (double column) and the full depth of the page is 170 mm**.
 
 ### Templates included
 The two templates in this repository are:
-- [`template-single-column.pptx`](template-single-column.pptx) - **90 mm x 85 mm** (half page depth)
-- [`template-double-column.pptx`](template-double-column.pptx) - **180 mm x 85 mm** (half page depth)
+- [`template-single-column.pptx`](template-single-column.pptx) - **89 mm x 85 mm** (half page depth)
+- [`template-double-column.pptx`](template-double-column.pptx) - **183 mm x 85 mm** (half page depth)
 
 ### Additional resources from _Nature_
 - [Formatting guide](https://www.nature.com/nature/for-authors/formatting-guide)
@@ -26,6 +26,7 @@ The following are some guidance provided by _Nature_ throughout some of the hype
 - Export as editable, unflattened vector file. Acceptable file formats are: **.ai, .eps, .pdf, .ps, and .svg**.
 - All text should be in sans-serif typeface, preferably Helvetica or Arial.
 - Separate panels in multi-part figures should be labeled with 8-pt bold, upright (not italic) lowercase letters: a, b, c, etc.
+- Text size for all other text should be between **5 pt. - 7 pt.**. 
 
 The initial submission guidelines includes information on other acceptable file formats:
 > Acceptable formats are: .ai, .eps, .pdf, .ps, .svg for fully editable vector-based art; layered .psd or .tif for editable layered art; .psd, .tif, .png or .jpg for bitmap images; .ppt if fully editable and without styling effects; ChemDraw (.cdx) for chemical structures. A guide to preparing final figures is available here: Figure style guide.
